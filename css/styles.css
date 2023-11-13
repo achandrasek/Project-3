@@ -58,3 +58,12 @@ p {
   text-align: center;
 }
 
+@media (min-width: 320px) {
+  
+}
+
+@media (min-width: 481px) and (max-width: 1024px) {
+  
+}
+
+
