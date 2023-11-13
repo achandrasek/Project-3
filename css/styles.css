@@ -59,7 +59,26 @@ p {
 }
 
 @media (min-width: 320px) {
-  
+  body {
+    background-color: #f0f0f0;
+  }
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 15px;
+  }
+  section {
+    margin-bottom: 30px;
+    font-size: 1.2em;
+  }
+  ul {
+    list-style-type: square;
+  }
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
 }
 
 @media (min-width: 481px) and (max-width: 1024px) {
