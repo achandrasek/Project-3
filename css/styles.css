@@ -58,7 +58,7 @@ p {
   text-align: center;
 }
 
-@media (min-width: 320px) {
+@media (min-width: 2000px) {
   body {
     background-color: #f0f0f0;
   }
@@ -85,27 +85,8 @@ p {
 }
 
 @media (min-width: 481px) and (max-width: 1024px) {
-  main {
-    display: flex;
-    justify-content: space-between;
+  
   }
 
-  section {
-    width: 30%;
-  }
-
-  footer {
-    text-align: center;
-    font-size: 0.8em;
-  }
-
-  h1 {
-    font-size: 2em;
-  }
-
-  p {
-    line-height: 1.5;
-  }
-}
 
 
