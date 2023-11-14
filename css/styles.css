@@ -58,7 +58,7 @@ p {
   text-align: center;
 }
 
-@media (min-width: 2500px) {
+@media (min-width: 1000px) {
   body {
     background-color: #ef5555;
   }
@@ -84,7 +84,7 @@ p {
   }
 }
 
-@media (min-width: 3000px) {
+@media (min-width: 1500px) {
   body {
     background-color: #9a77f1;
   }
