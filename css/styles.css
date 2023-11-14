@@ -77,8 +77,8 @@ p {
     color: #fff;
     padding: 15px;
   }
-  footer {
-    background-color: #333;
+  p {
+    background-color: rgb(54, 239, 41);
     color: #fff;
     padding: 10px;
   }
@@ -103,8 +103,8 @@ p {
     color: #fff;
     padding: 15px;
   }
-  footer {
-    background-color: #333;
+  p {
+    background-color: rgb(219, 82, 191);
     color: #fff;
     padding: 10px;
   }
