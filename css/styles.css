@@ -36,6 +36,11 @@ section {
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
+iframe {
+  align: center;
+
+}
+
 img {
   max-width: 100%;
   height: auto;
@@ -54,11 +59,22 @@ p {
   margin-bottom: 20px;
 }
 
+#map{
+  width: 80%;
+  height: 500px;
+  border-radius: 25px;
+  border-color: #FE5F55;
+  border-width: thick;
+  border-style: dotted;
+  margin: 20px;
+}
+
+
 .center_custom {
   text-align: center;
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 800px) {
   body {
     background-color: #ef5555;
   }
