@@ -36,11 +36,6 @@ section {
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
-iframe {
-  align: center;
-
-}
-
 img {
   max-width: 100%;
   height: auto;
@@ -98,7 +93,7 @@ p {
     color: #fff;
     padding: 10px;
   }
-}
+
 
 @media (min-width: 1500px) {
   body {
@@ -124,7 +119,7 @@ p {
     color: #fff;
     padding: 10px;
   }
-}
+
 
 
 
